@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FashionAI</string>
+    <string name="splash_title">FashionAI</string>
+    <string name="splash_subtitle">Your Personal Stylist</string>
+    <string name="onboarding_title">Welcome to FashionAI</string>
+    <string name="onboarding_description">Discover your personal style with AI-powered recommendations</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="home_title">Dashboard</string>
+    <string name="scan_outfit">Scan Outfit</string>
+    <string name="view_wardrobe">My Wardrobe</string>
+    <string name="saved_looks">Saved Looks</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="camera_permission_denied">Camera permission is required</string>
+    <string name="gallery_permission_denied">Storage permission is required</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="loading">Loading...</string>
+    <string name="empty_state">No items yet</string>
+</resources>
